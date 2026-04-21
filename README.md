@@ -3,17 +3,6 @@
 Site institucional da GDZ Consultoria, especializada em soluções de segurança, infraestrutura e cloud para empresas.
 
 ## 🚀 Quick Start
-
-```bash
-# Clone o repositório
-git clone https://github.com/SEU_USUARIO/gdz-consultoria.git
-cd gdz-consultoria
-
-# Abra no navegador
-python -m http.server 8000
-# Acesse: http://localhost:8000
-```
-
 ## 📋 Características
 
 - ✅ **Responsivo**: Funciona em desktop, tablet e mobile
